@@ -1,0 +1,7 @@
+{
+  "name": "dep-log",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
