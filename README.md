@@ -1,5 +1,5 @@
 # Dep-Log
 
-aplicacion de administracion de departamentos para empleados
+Aplicacion de administracion de departamentos para empleados
 
-para trabajo universitario
+Para trabajo universitario
